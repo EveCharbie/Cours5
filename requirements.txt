@@ -1,0 +1,4 @@
+scipy==1.14.0
+matplotlib==3.9.1
+numpy==1.26.4
+casadi==3.6.5
