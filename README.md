@@ -1,4 +1,4 @@
-# Simulation de cours d"'exploitation de l'ordinateur II"
+# Simulation de cours d'_exploitation de l'ordinateur II_
 Ce cours s'adresse à des étudiants en deuxième sessions du baccalauréat en génie mécanique.
 Le cours est sous format mixte; présentation théorique (power point: Cours5.pptx) & exemples d'application sous forme de code Python (Jupyter notebook: Cours5.ipynb).
 
