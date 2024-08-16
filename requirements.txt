@@ -3,3 +3,4 @@ matplotlib==3.9.1
 numpy==1.26.4
 casadi==3.6.5
 pandas==2.2.2
+rise==5.7.1
